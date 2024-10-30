@@ -19,6 +19,7 @@ sudo apt install openssh-server
 ![Screenshot 2024-10-30 212512](https://github.com/user-attachments/assets/a92c74e7-0f90-4e8c-8727-272d838da230)
 # 2. Ubah port 22 jadi 40
 ![Screenshot 2024-10-30 213200](https://github.com/user-attachments/assets/29e91271-b43f-4929-9777-2c3a7f216db3)
+![Screenshot 2024-10-30 224432](https://github.com/user-attachments/assets/4a0636a8-e670-4eb8-9a00-b50b0e3202a3)
 # 3. Restart SSH
 ![Screenshot 2024-10-30 215144](https://github.com/user-attachments/assets/0287fd46-9c1a-4d40-a2ed-b30dc4d8d961)
 # Remote
